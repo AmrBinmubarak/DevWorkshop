@@ -1,0 +1,15 @@
+Similar Concepts:
+
+Code Correctness & Effectiveness: Both Yelp and Microsoft emphasize ensuring the code correctly addresses the problem it's intended to solve.
+Test Coverage: Highlighting the importance of comprehensive testing to catch bugs and ensure code quality.
+Key Differences:
+
+Review Size & Scope: Yelp prefers smaller, manageable reviews for quicker iteration, a practice that may vary with Microsoft.
+Communication & Documentation: Yelp stresses clear communication and thorough documentation within the review process, which might be handled differently by Microsoft.
+Code Review Checklist Essentials:
+
+Correctness: Code solves the intended problem.
+Maintainability & Readability: Code is easy to understand and maintain.
+Testing: Adequate and effective test coverage.
+Performance: Efficient code without unnecessary resource use.
+Security: Attention to potential vulnerabilities.
